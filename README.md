@@ -1,0 +1,1 @@
+[![VaultBreaker Production Build](https://github.com/Disturbed0Angel/VaultBreakerMiniGame/actions/workflows/build.yml/badge.svg)](https://github.com/Disturbed0Angel/VaultBreakerMiniGame/actions/workflows/build.yml)
