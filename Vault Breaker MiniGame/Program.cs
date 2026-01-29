@@ -44,3 +44,6 @@ while (userGuess != correctPin && attempts < 10)
         Console.WriteLine("--- VAULT SAFETY TRIGGERD, POLICE IN ROUTE! ---");
     }
 }
+
+Console.WriteLine("\nPress any key to exit and thanks for playing...");
+Console.ReadKey();
